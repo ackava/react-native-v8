@@ -1,8 +1,7 @@
 
 #include "v8.h"
 #include <stdlib.h>
-#include "libplatform.h"
-
+#include "libplatform/libplatform.h"
 using namespace v8;
 
 typedef char* XString;
